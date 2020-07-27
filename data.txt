@@ -1,3 +1,4 @@
 Name: Ida
 Age: 34
 Favorite Color: White
+New line
